@@ -1,0 +1,7 @@
+langchain
+langchain-openai
+langchain-pinecone
+pinecone
+langchain-community
+pypdf
+tiktoken
